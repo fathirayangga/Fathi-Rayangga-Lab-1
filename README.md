@@ -714,7 +714,7 @@
       <div class="footer-col">
         <h4>Address</h4>
         <ul>
-          <li>Jl. Kemang Raya No. 88</li>
+          <li>Jl. Cipaduy Swag No. 88</li>
           <li>South Jakarta, 12730</li>
         </ul>
       </div>
@@ -729,7 +729,7 @@
       <div class="footer-col">
         <h4>Contact</h4>
         <ul>
-          <li><a href="tel:+622157891234">+62 21 5789 1234</a></li>
+          <li><a href="tel:+622157891234">+62 13 8987 1234</a></li>
           <li><a href="mailto:hello@recuerdame.id">hello@recuerdame.id</a></li>
           <li><a href="#">@recuerdame.id</a></li>
         </ul>
